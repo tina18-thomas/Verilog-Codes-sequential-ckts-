@@ -1,0 +1,20 @@
+# Vivado temporary and build files
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.runs/
+*.ip_user_files/
+*.Xil/
+*.sim/
+*.webtalk/
+*.sysdef
+*.xpr
+*.xsd
+*.dcp
+*.xo
+*.bit
+*.bin
+*.wdb
+.project
